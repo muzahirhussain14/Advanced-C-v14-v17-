@@ -3,7 +3,7 @@
 
 int GetValue()
 {
-    return 10;          // returns an l-value
+    return 10;          // returns an r-value
 }
 
 int& GetValueRef()
